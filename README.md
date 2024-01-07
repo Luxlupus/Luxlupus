@@ -5,7 +5,7 @@
 <p>I’m currently learning: 
 <span>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,mongodb" />
   </a>
 </span>
 </p>
