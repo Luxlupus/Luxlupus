@@ -3,7 +3,7 @@
 I’m Ivan and I'm on my journey to become a programmer 💻. 
 I’m passionate about learning everything that is related to Web Development 🌐.
 </p>
-<p>Started with CS50 and The Odin Project (Foundations ✅).</p>
+<p>Started with CS50 and now following The Odin Project (Foundations ✅).</p>
 <p>I’m currently learning: 
 <span>
   <a href="https://skillicons.dev">
@@ -12,7 +12,7 @@ I’m passionate about learning everything that is related to Web Development �
 </span>
 </p>
 <p>
-<a href="ispiljak@gmail.com">
+<a href="mail to: ispiljak@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
