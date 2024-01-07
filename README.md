@@ -12,7 +12,7 @@ Iâ€™m passionate about learning everything that is related to Web Development ğŸ
 </span>
 </p>
 <p>
-<a href="mail to: ispiljak@gmail.com">
+<a href="mailto:ispiljak@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
