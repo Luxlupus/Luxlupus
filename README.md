@@ -1,7 +1,6 @@
 <h1>👋 Hey there</h1>
-<p>I’m Ivan and I'm on my journey to become a programmer 💻. </p>
+<p>I’m Ivan and I'm on my journey to become a developer 💻. </p>
 <p>I’m passionate about learning everything that is related to Web Development 🌐.</p>
-<p>Started with CS50 and now following The Odin Project (Foundations ✅).</p>
 <p>I’m currently learning: 
 <span>
   <a href="https://skillicons.dev">
